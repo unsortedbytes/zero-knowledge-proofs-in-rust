@@ -77,4 +77,5 @@ Bob/Provider&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 4. Then Bob will send S = K - C.x mod p 
 5. The Alice will check if R<sub>1</sub> = &alpha;<sup>S</sup> x Y<sub>1</sub><sup>C</sup> and <sub>2</sub> = &beta;<sup>S</sup> x Y<sub>2</sub><sup>C</sup>
 
-then we can tell Bob have seceret no
+then we can tell Bob have seceret no or not ![alt text](image.png)
+
