@@ -12,3 +12,8 @@ For Random Number: Funtion **Random Generator**
 
 
 Unit Test -> to verfiy the funtion work perfectly
+
+## 1024 bit test very important for the test 
+
+## Additional Diffie-Hellman Groups 
+https://datatracker.ietf.org/doc/html/rfc5114
