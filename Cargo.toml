@@ -7,3 +7,21 @@ edition = "2024"
 hex = "0.4.3"
 num-bigint = {version = "0.4", features =["rand"]}
 rand = "0.8"
+
+prost = "0.14.4"
+tokio = { version = "1.53.1", features = ["full"] } # async rust runtime
+tonic = "0.14.6"
+tonic-prost = "0.14"
+
+[build-dependencies]
+tonic-prost-build = "0.14"
+
+
+[[bin]]
+name = "server"
+path = "./src/server.rs"
+
+
+[[bin]]
+name = "client"
+path = "./src/client.rs"
