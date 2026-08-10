@@ -1,0 +1,8 @@
+{
+  global:
+    __rustc_proc_macro_decls_f59a11169a56e785__;
+    rust_metadata_pin_project_internal_f59a11169a56e785;
+
+  local:
+    *;
+};
